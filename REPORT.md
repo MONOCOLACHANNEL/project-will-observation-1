@@ -290,4 +290,4 @@ python tools/find.py 月島レン --time 00:39 00:45
 
 ## 引用
 
-> モノコーラ (2026). Project Will 観測報告 #1. Zenodo. DOI: (発行後に記載)
+> Monocola (モノコーラ). (2026). Project Will: Observation #1 — 32 autonomous LLM villagers, 6 hours, no institutions (Version v1.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.21723922
