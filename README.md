@@ -2,7 +2,7 @@
 
 制度（役割・規則・権限・契約）を一切与えずに Minecraft へ放った自律 AI 村人 32 体・約 6 時間の**全記録と全分析**です。動画で提示した全ての主張は、このリポジトリのデータから検証できます。
 
-📺 動画: （公開後にリンク）
+📺 動画: https://youtu.be/Xn0kTCtqDO0
 📄 報告書: [REPORT.md](REPORT.md)
 🔎 主張↔データ対応表: [VERIFICATION.md](VERIFICATION.md)
 📚 データ辞書: [DATA.md](DATA.md)
