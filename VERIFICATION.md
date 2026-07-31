@@ -101,4 +101,4 @@
 
 | 主張 | 根拠 |
 |---|---|
-| 「内発的動機（survival, curiosity, community）を欠く」「de novo 発生はシミュレートできない」 | arXiv:2411.00114 Discussion 章（原文の該当段落を REPORT §1.1 に引用） |
+| 「内発的動機（survival, curiosity, community）を欠く」「de novo 発生はシミュレートできない」 | arXiv:2411.00114 §7 Limitations（原文の該当段落を REPORT §1.1 に引用） |
