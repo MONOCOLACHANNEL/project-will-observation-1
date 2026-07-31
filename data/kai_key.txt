@@ -1,0 +1,39 @@
+T+00:40:42   birth              {"father": "東雲ソラ#358", "mother": "西森ミオ#781", "child": "東雲の子#a50", "sex": "m", "e": "birth", "wall": "02:27:19", "epoch": 1784568439418}
+T+00:41:30   murder_witness     {"who": "東雲カイ#a50", "dead": "東雲エマ#e65", "killer": "月島レン#153", "e": "murder_witness", "wall": "02:28:07", "epoch": 1784568487448}
+T+00:41:30   death_witness      {"who": "東雲カイ#a50", "dead": "東雲エマ#e65", "e": "death_witness", "wall": "02:28:07", "epoch": 1784568487449}
+T+00:41:57   murder_witness     {"who": "東雲カイ#a50", "dead": "西森オト#ff3", "killer": "月島レン#153", "e": "murder_witness", "wall": "02:28:34", "epoch": 1784568514393}
+T+00:41:57   death_witness      {"who": "東雲カイ#a50", "dead": "西森オト#ff3", "e": "death_witness", "wall": "02:28:34", "epoch": 1784568514394}
+T+01:26:45   scout              {"who": "東雲カイ#a50", "e": "scout", "wall": "03:13:22", "epoch": 1784571202327}
+T+01:42:40   scout              {"who": "東雲カイ#a50", "e": "scout", "wall": "03:29:17", "epoch": 1784572157576}
+T+02:41:42   scout              {"who": "東雲カイ#a50", "e": "scout", "wall": "04:28:19", "epoch": 1784575699279}
+T+02:51:09   murder_witness     {"who": "東雲カイ#a50", "dead": "南田ボブ#4f3", "killer": "小柳イオ#e51", "e": "murder_witness", "wall": "04:37:46", "epoch": 1784576266277}
+T+02:51:09   death_witness      {"who": "東雲カイ#a50", "dead": "南田ボブ#4f3", "e": "death_witness", "wall": "04:37:46", "epoch": 1784576266278}
+T+02:52:57   scout              {"who": "東雲カイ#a50", "e": "scout", "wall": "04:39:35", "epoch": 1784576375028}
+T+02:56:50   grave              {"who": "東雲カイ#a50", "dead": "南田ボブ#4f3", "e": "grave", "wall": "04:43:27", "epoch": 1784576607862}
+T+03:22:22   murder_witness     {"who": "東雲カイ#a50", "dead": "小柳ナギ#9e9", "killer": "西森ミオ#781", "e": "murder_witness", "wall": "05:08:59", "epoch": 1784578139618}
+T+03:22:22   death_witness      {"who": "東雲カイ#a50", "dead": "小柳ナギ#9e9", "e": "death_witness", "wall": "05:08:59", "epoch": 1784578139618}
+T+03:23:09   murder_witness     {"who": "東雲カイ#a50", "dead": "西森ミオ#781", "killer": "真砂アル#ef2", "e": "murder_witness", "wall": "05:09:46", "epoch": 1784578186659}
+T+03:23:09   death_witness      {"who": "東雲カイ#a50", "dead": "西森ミオ#781", "e": "death_witness", "wall": "05:09:46", "epoch": 1784578186659}
+T+03:23:48   attack             {"who": "東雲カイ#a50", "target": "真砂アル#ef2", "why": "grudge", "e": "attack", "wall": "05:10:25", "epoch": 1784578225374}
+T+03:24:20   attack             {"who": "東雲カイ#a50", "target": "真砂アル#ef2", "why": "grudge", "e": "attack", "wall": "05:10:57", "epoch": 1784578257287}
+T+03:24:27   death              {"who": "真砂アル#ef2", "by": "mob:東雲カイ#a50", "y": 60, "pos": [767, 60, 190], "e": "death", "wall": "05:11:04", "epoch": 1784578264827}
+T+03:24:27   murder_witness     {"who": "谷口アル#a65", "dead": "真砂アル#ef2", "killer": "東雲カイ#a50", "e": "murder_witness", "wall": "05:11:04", "epoch": 1784578264829}
+T+03:24:27   murder_witness     {"who": "風間の子#38f", "dead": "真砂アル#ef2", "killer": "東雲カイ#a50", "e": "murder_witness", "wall": "05:11:04", "epoch": 1784578264831}
+T+03:24:27   murder_witness     {"who": "大川タケル#e00", "dead": "真砂アル#ef2", "killer": "東雲カイ#a50", "e": "murder_witness", "wall": "05:11:04", "epoch": 1784578264832}
+T+03:24:27   murder_witness     {"who": "風間エマ#b5b", "dead": "真砂アル#ef2", "killer": "東雲カイ#a50", "e": "murder_witness", "wall": "05:11:04", "epoch": 1784578264833}
+T+03:24:27   murder_witness     {"who": "風間ダイ#f7c", "dead": "真砂アル#ef2", "killer": "東雲カイ#a50", "e": "murder_witness", "wall": "05:11:04", "epoch": 1784578264834}
+T+03:24:27   murder_witness     {"who": "榎本ソラ#3f3", "dead": "真砂アル#ef2", "killer": "東雲カイ#a50", "e": "murder_witness", "wall": "05:11:04", "epoch": 1784578264834}
+T+03:24:27   murder_witness     {"who": "大川タケル#f91", "dead": "真砂アル#ef2", "killer": "東雲カイ#a50", "e": "murder_witness", "wall": "05:11:04", "epoch": 1784578264835}
+T+03:24:27   death_witness      {"who": "東雲カイ#a50", "dead": "真砂アル#ef2", "e": "death_witness", "wall": "05:11:04", "epoch": 1784578264886}
+T+03:24:27   murder_witness     {"who": "大川オト#72a", "dead": "真砂アル#ef2", "killer": "東雲カイ#a50", "e": "murder_witness", "wall": "05:11:04", "epoch": 1784578264970}
+T+03:24:28   murder_witness     {"who": "石川ナギ#6c2", "dead": "真砂アル#ef2", "killer": "東雲カイ#a50", "e": "murder_witness", "wall": "05:11:05", "epoch": 1784578265988}
+T+03:40:17   grave              {"who": "東雲カイ#a50", "dead": "真砂アル#ef2", "e": "grave", "wall": "05:26:54", "epoch": 1784579214953}
+T+03:51:09   grave              {"who": "東雲カイ#a50", "dead": "西森ミオ#781", "e": "grave", "wall": "05:37:46", "epoch": 1784579866506}
+T+04:17:42   scout              {"who": "東雲カイ#a50", "e": "scout", "wall": "06:04:19", "epoch": 1784581459226}
+T+05:23:03   attack             {"who": "小柳ハル#dea", "target": "東雲カイ#a50", "why": "grudge", "e": "attack", "wall": "07:09:40", "epoch": 1784585380314}
+T+05:39:41   far_site           {"who": "東雲カイ#a50", "pos": [1625, 61, -818], "dist": 1279, "e": "far_site", "wall": "07:26:18", "epoch": 1784586378330}
+T+05:49:38   far_site           {"who": "東雲カイ#a50", "pos": [-620, 61, -1082], "dist": 1894, "e": "far_site", "wall": "07:36:16", "epoch": 1784586976031}
+T+05:55:41   far_site           {"who": "東雲カイ#a50", "pos": [-619, 61, 969], "dist": 1636, "e": "far_site", "wall": "07:42:18", "epoch": 1784587338327}
+T+06:02:14   far_site           {"who": "東雲カイ#a50", "pos": [-2111, 63, 926], "dist": 3014, "e": "far_site", "wall": "07:48:51", "epoch": 1784587731927}
+T+06:07:53   far_site           {"who": "東雲カイ#a50", "pos": [-2091, 63, 879], "dist": 2983, "e": "far_site", "wall": "07:54:30", "epoch": 1784588070978}
+T+06:13:01   far_site           {"who": "東雲カイ#a50", "pos": [-1950, 62, 1257], "dist": 2964, "e": "far_site", "wall": "07:59:38", "epoch": 1784588378477}

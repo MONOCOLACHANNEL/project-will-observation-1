@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this dataset or report, please cite it as below."
+title: "Project Will: Observation #1 — 32 autonomous LLM villagers, 6 hours, no institutions"
+authors:
+  - name: "Monocola (モノコーラ)"
+type: dataset
+license: CC-BY-4.0
+date-released: 2026-07-31
+# doi: (Zenodo発行後に記載)

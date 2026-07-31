@@ -1,0 +1,7 @@
+{
+  "title": "Project Will: Observation #1 — 32 autonomous LLM villagers, 6 hours, no institutions",
+  "creators": [{"name": "Monocola"}],
+  "license": "CC-BY-4.0",
+  "upload_type": "dataset",
+  "description": "Full logs and analyses of 32 autonomous LLM-driven Minecraft villagers observed for ~6 hours with no institutions (roles, rules, authority, contracts) provided. Includes all 9,874 utterances, 14,969 structured events, a full audit of all 24 killings, 45 grave epitaphs with confirmed authorship, and place-name propagation networks. Report in Japanese."
+}

@@ -1,0 +1,24 @@
+# 「墓を建てる」はメニューに出た時、どれだけ選ばれたか（村人ごとに正しく対応付け）
+# ※brain.log は wall 03:06 以降しか残っていない（走行開始 01:46）＝T+01:20以降の部分集計
+
+build_grave がその村人のメニューに載った回数: 2192
+  → その直後にその村人が build_grave を選んだ回数: 52
+  → 別の行動を選んだ回数: 2118
+選択率: 2.4%
+
+# 墓が候補にあったのに、代わりに選ばれた行動 上位
+  quarry             277回
+  visit              215回
+  follow             195回
+  go_home            190回
+  socialize          180回
+  gather_wood        165回
+  farm_tend          162回
+  scout_surface      141回
+  store_items        132回
+  sleep              73回
+  expedition         51回
+  build_house        50回
+  gather_stone       49回
+  voyage             39回
+  light_area         35回

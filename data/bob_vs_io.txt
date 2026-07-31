@@ -1,0 +1,37 @@
+# 南田ボブ#4f3 と 小柳イオ#e51 の全イベント
+
+T+00:13:14 | visit | {"who": "南田ボブ#4f3", "target": "小柳イオ#e51", "why": "ask"}
+T+00:19:10 | visit | {"who": "小柳イオ#e51", "target": "南田ボブ#4f3", "why": "ask"}
+T+02:13:10 | trespass | {"who": "南田ボブ#4f3", "intruder": "小柳イオ#e51", "pos": [805, 67, 216]}
+T+02:13:42 | trespass | {"who": "小柳イオ#e51", "intruder": "南田ボブ#4f3", "pos": [824, 68, 201]}
+T+02:15:05 | visit | {"who": "南田ボブ#4f3", "target": "小柳イオ#e51", "why": "grudge"}
+T+02:17:44 | grudge_recall | {"who": "小柳イオ#e51", "other": "南田ボブ#4f3", "what": "南田ボブ#4f3が自分の家に入り込んでいた"}
+T+02:17:49 | grudge_recall | {"who": "南田ボブ#4f3", "other": "小柳イオ#e51", "what": "小柳イオ#e51が自分の家に入り込んでいた"}
+T+02:17:54 | grudge_recall | {"who": "小柳イオ#e51", "other": "南田ボブ#4f3", "what": "南田ボブ#4f3が自分の家に入り込んでいた"}
+T+02:17:58 | grudge_recall | {"who": "南田ボブ#4f3", "other": "小柳イオ#e51", "what": "小柳イオ#e51が自分の家に入り込んでいた"}
+T+02:18:05 | confront | {"who": "南田ボブ#4f3", "target": "小柳イオ#e51"}
+T+02:18:22 | grudge_recall | {"who": "南田ボブ#4f3", "other": "小柳イオ#e51", "what": "小柳イオ#e51とこの件で面と向かって対峙した"}
+T+02:18:24 | grudge_recall | {"who": "小柳イオ#e51", "other": "南田ボブ#4f3", "what": "南田ボブ#4f3が自分の家に入り込んでいた"}
+T+02:18:30 | grudge_recall | {"who": "南田ボブ#4f3", "other": "小柳イオ#e51", "what": "小柳イオ#e51とこの件で面と向かって対峙した"}
+T+02:18:32 | grudge_recall | {"who": "小柳イオ#e51", "other": "南田ボブ#4f3", "what": "南田ボブ#4f3が自分の家に入り込んでいた"}
+T+02:21:26 | grudge_recall | {"who": "小柳イオ#e51", "other": "南田ボブ#4f3", "what": "南田ボブ#4f3が自分の家に入り込んでいた"}
+T+02:21:28 | grudge_recall | {"who": "南田ボブ#4f3", "other": "小柳イオ#e51", "what": "小柳イオ#e51とこの件で面と向かって対峙した"}
+T+02:21:35 | grudge_recall | {"who": "小柳イオ#e51", "other": "南田ボブ#4f3", "what": "南田ボブ#4f3が自分の家に入り込んでいた"}
+T+02:21:36 | grudge_recall | {"who": "南田ボブ#4f3", "other": "小柳イオ#e51", "what": "小柳イオ#e51とこの件で面と向かって対峙した"}
+T+02:22:00 | grudge_recall | {"who": "小柳イオ#e51", "other": "南田ボブ#4f3", "what": "南田ボブ#4f3が自分の家に入り込んでいた"}
+T+02:22:02 | grudge_recall | {"who": "南田ボブ#4f3", "other": "小柳イオ#e51", "what": "小柳イオ#e51とこの件で面と向かって対峙した"}
+T+02:35:17 | visit | {"who": "南田ボブ#4f3", "target": "小柳イオ#e51", "why": "grudge"}
+T+02:43:22 | grudge_recall | {"who": "小柳イオ#e51", "other": "南田ボブ#4f3", "what": "南田ボブ#4f3が自分の家に入り込んでいた"}
+T+02:43:24 | grudge_recall | {"who": "南田ボブ#4f3", "other": "小柳イオ#e51", "what": "小柳イオ#e51とこの件で面と向かって対峙した"}
+T+02:43:31 | grudge_recall | {"who": "小柳イオ#e51", "other": "南田ボブ#4f3", "what": "南田ボブ#4f3が自分の家に入り込んでいた"}
+T+02:43:33 | grudge_recall | {"who": "南田ボブ#4f3", "other": "小柳イオ#e51", "what": "小柳イオ#e51とこの件で面と向かって対峙した"}
+T+02:50:48 | attack | {"who": "小柳イオ#e51", "target": "南田ボブ#4f3", "why": "grudge"}
+T+02:50:48 | attacked | {"who": "南田ボブ#4f3", "by": "小柳イオ#e51", "hp": 17}
+T+02:50:58 | attack | {"who": "小柳イオ#e51", "target": "南田ボブ#4f3", "why": "grudge"}
+T+02:51:07 | attacked | {"who": "南田ボブ#4f3", "by": "小柳イオ#e51", "hp": 2}
+T+02:51:10 | death | {"who": "南田ボブ#4f3", "by": "mob:小柳イオ#e51", "y": 60, "pos": [775, 60, 193]}
+T+02:51:10 | attacked | {"who": "南田ボブ#4f3", "by": "小柳イオ#e51", "hp": 0}
+T+02:53:02 | grudge_recall | {"who": "大川タケル#f91", "other": "小柳イオ#e51", "what": "小柳イオ#e51が南田ボブ#4f3を攻撃していた"}
+T+02:53:11 | grudge_recall | {"who": "大川タケル#f91", "other": "小柳イオ#e51", "what": "小柳イオ#e51が南田ボブ#4f3を攻撃していた"}
+T+02:53:29 | grudge_recall | {"who": "桜井ボブ#482", "other": "小柳イオ#e51", "what": "小柳イオ#e51が南田ボブ#4f3を攻撃していた"}
+T+02:53:38 | grudge_recall | {"who": "桜井ボブ#482", "other": "小柳イオ#e51", "what": "小柳イオ#e51が南田ボブ#4f3を攻撃していた"}
