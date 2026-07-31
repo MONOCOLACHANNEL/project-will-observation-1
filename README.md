@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21723922.svg)](https://doi.org/10.5281/zenodo.21723922)
 
+🌐 **English summary: [README_EN.md](README_EN.md)**
+
 実効的な制度（役割の割当て・共有規則・権限・契約の履行機構）を与えずに Minecraft へ放った自律 AI 村人 32 人・約 6 時間の**全記録と全分析**です。動画で提示した全ての主張は、このリポジトリのデータから検証できます。
 
 📺 動画: https://youtu.be/Xn0kTCtqDO0
