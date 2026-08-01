@@ -102,3 +102,12 @@
 | 主張 | 根拠 |
 |---|---|
 | 「内発的動機（survival, curiosity, community）を欠く」「de novo 発生はシミュレートできない」 | arXiv:2411.00114 §7 Limitations（原文の該当段落を REPORT §1.1 に引用） |
+
+## 先行研究との対照（REPORT §1.2）
+
+| 主張 | 根拠 |
+|---|---|
+| Artificial Leviathan は欲求実装・制度非付与で社会契約の創発を報告 | arXiv:2406.14373 Abstract および §5（基準条件 9 体・4 試行） |
+| 同研究の `concede` は「恒久的な契約の締結」として定義される | 同論文 §3.3 行動定義（"Concede signifies the creation of a contract … it is a permanent contract"） |
+| 同環境では違反が実行不能（システムが強制） | 同論文 §4（"subordinates cannot refuse the rob action from superiors"） |
+| 同研究の行動空間は 1 日 1 手の離散選択 | 同論文 §3（farm / rob / trade / donate ＋ resist / concede） |
