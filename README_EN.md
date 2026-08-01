@@ -1,6 +1,6 @@
 # Project Will — Observation #1 Dataset (2026-07-21 longrun)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21723922.svg)](https://doi.org/10.5281/zenodo.21723922)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21723921.svg)](https://doi.org/10.5281/zenodo.21723921)
 
 Full logs and analyses of **32 autonomous LLM-driven Minecraft villagers** observed for ~6 hours with **no effective institutions provided** — no role assignment, no shared rules, no authority, no contract-enforcement mechanism. The villagers were given only a body, a 9-axis "discontent" state (survival / curiosity / community), and a personality. Nothing is forced by the system; "kill" and "mourn" appear nowhere in the prompts.
 
@@ -48,6 +48,8 @@ https://youtu.be/Xn0kTCtqDO0 (Japanese audio, English subtitles)
 
 Data & documents: **CC BY 4.0** / scripts: **MIT** ([LICENSE](LICENSE))
 
-> Monocola. (2026). *Project Will: Observation #1 — 32 autonomous LLM villagers, 6 hours, no institutions* (Version v1.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.21723922
+> Monocola. (2026). *Project Will: Observation #1 — 32 autonomous LLM villagers, 6 hours, no institutions* [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.21723921
+
+(Concept DOI — always resolves to the latest version. v1.0 = 10.5281/zenodo.21723922)
 
 Author: Monocola — questions welcome via Issues, in Japanese or English.

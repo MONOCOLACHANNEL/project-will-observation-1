@@ -1,6 +1,6 @@
 # Project Will — 観測 #1 データセット（2026-07-21 ロングラン）
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21723922.svg)](https://doi.org/10.5281/zenodo.21723922)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21723921.svg)](https://doi.org/10.5281/zenodo.21723921)
 
 🌐 **English summary: [README_EN.md](README_EN.md)**
 
@@ -45,7 +45,7 @@ python tools/find.py --time 03:22 03:25
 ## ライセンス / 引用
 
 - データ・文書: **CC BY 4.0** ／ スクリプト: **MIT**（[LICENSE](LICENSE)）
-- 引用は [CITATION.cff](CITATION.cff) を参照。DOI: [10.5281/zenodo.21723922](https://doi.org/10.5281/zenodo.21723922)（全バージョン: [10.5281/zenodo.21723921](https://doi.org/10.5281/zenodo.21723921)）
+- 引用は [CITATION.cff](CITATION.cff) を参照。DOI: [10.5281/zenodo.21723921](https://doi.org/10.5281/zenodo.21723921)（常に最新版へ解決。初版 v1.0 は [10.5281/zenodo.21723922](https://doi.org/10.5281/zenodo.21723922)）
 
 ## 著者
 
